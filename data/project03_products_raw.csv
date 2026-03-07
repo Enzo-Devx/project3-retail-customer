@@ -1,0 +1,26 @@
+product_id,product_name,category,base_price
+PROD-001,Wireless Earbuds,Electronics,1299
+PROD-002,Phone Case,Electronics,299
+PROD-003,Bluetooth Speaker,Electronics,1599
+PROD-004,Power Bank,Electronics,899
+PROD-005,Smart Watch,Electronics,4999
+PROD-006,Running Shoes,Fashion,3200
+PROD-007,Sunglasses,Fashion,799
+PROD-008,Backpack,Fashion,1750
+PROD-009,Cap,Fashion,450
+PROD-010,Jacket,Fashion,2800
+PROD-011,Coffee Maker,Home & Living,2499
+PROD-012,Desk Lamp,Home & Living,899
+PROD-013,Water Bottle,Home & Living,450
+PROD-014,Yoga Mat,Home & Living,599
+PROD-015,Air Purifier,Home & Living,6999
+PROD-016,Skincare Set,Beauty,1899
+PROD-017,Perfume,Beauty,2200
+PROD-018,Lip Kit,Beauty,599
+PROD-019,Hair Serum,Beauty,899
+PROD-020,Sunscreen,Beauty,450
+PROD-021,Resistance Bands,Sports,799
+PROD-022,Jump Rope,Sports,350
+PROD-023,Gym Bag,Sports,1599
+PROD-024,Protein Shaker,Sports,450
+PROD-025,Knee Brace,Sports,899

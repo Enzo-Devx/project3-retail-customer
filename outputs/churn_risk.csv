@@ -1,0 +1,327 @@
+customer_id,full_name,email,tier,region,channel,total_orders,total_spent,last_order_date,days_since_order,first_order_date,churn_status
+CUST-1190,Christopher Mitchell,jamesknox@example.net,Bronze,NCR,Online,18,83242.84,2024-08-03,576,2023-01-28,High Value Churned
+CUST-1162,Shelly Mills,johnsnyder@example.com,Gold,Cebu,In-Store,12,75453.66,2024-09-19,529,2023-01-29,High Value Churned
+CUST-1069,Kyle Graham,myersjohnny@example.org,Silver,Cagayan de Oro,Both,9,64889.37,2024-09-23,525,2023-01-04,High Value Churned
+CUST-1119,Benjamin Price,vaughnjames@example.org,Silver,Unknown,Online,11,56324.73,2024-09-11,537,2023-03-09,High Value Churned
+CUST-1038,Shelby Reyes,rebecca36@example.com,Platinum,Batangas,In-Store,14,55666.25,2024-08-20,559,2023-02-02,High Value Churned
+CUST-1028,Steven Gardner,xjohnson@example.com,Silver,Batangas,In-Store,10,54635.41,2024-09-13,535,2023-04-08,High Value Churned
+CUST-1134,Susan Johns,oparker@example.net,Silver,Batangas,In-Store,9,52388.85,2024-05-19,652,2023-03-18,High Value Churned
+CUST-1027,Travis Webb MD,anthonyjohnson@example.org,Bronze,Cebu,Online,11,45016.71,2024-08-29,550,2023-03-02,High Value Churned
+CUST-1036,Matthew Howard,savannahgarrett@example.org,Bronze,Cebu,In-Store,13,44422.04,2024-08-22,557,2023-03-08,High Value Churned
+CUST-1124,Justin Combs,amysmith@example.com,Platinum,Cebu,Online,13,43311.35,2024-07-22,588,2023-04-17,High Value Churned
+CUST-1311,Emily Clark,richardsscott@example.org,Bronze,Iloilo,In-Store,8,43106.57,2023-11-24,829,2023-03-01,High Value Churned
+CUST-1192,Joseph Henderson,marshalljonathan@example.org,Silver,Iloilo,Both,12,42626.1,2024-07-29,581,2023-01-22,High Value Churned
+CUST-1071,Justin Anderson,michael99@example.com,Bronze,Iloilo,In-Store,11,42118.25,2024-05-11,660,2023-04-13,High Value Churned
+CUST-1008,Cynthia Mason,krasmussen@example.net,Gold,Unknown,In-Store,12,38900.12,2024-09-30,518,2023-03-11,High Value Churned
+CUST-1206,Daniel Ellis,brianna41@example.com,Bronze,Iloilo,Online,10,36934.52,2024-03-06,726,2023-03-02,High Value Churned
+CUST-1015,Richard Aguirre,cynthia28@example.net,Silver,Cagayan de Oro,Both,4,36206.67,2024-07-16,594,2023-04-13,High Value Churned
+CUST-1217,Jonathan Gonzalez,adam39@example.com,Silver,Laguna,Both,5,35955.03,2023-11-28,825,2023-01-10,High Value Churned
+CUST-1318,Mary Wheeler,hwaters@example.com,Bronze,Iloilo,Both,8,35668.66,2024-09-28,520,2023-01-30,High Value Churned
+CUST-1330,Rachel Miller,denise83@example.net,Bronze,Laguna,Online,5,35601.34,2023-06-28,978,2023-01-03,High Value Churned
+CUST-1155,Derrick Gilmore,vnguyen@example.net,Silver,Batangas,Both,15,35529.28,2024-09-01,547,2023-02-08,High Value Churned
+CUST-1128,Elizabeth Ramirez,amycohen@example.org,Gold,Batangas,Both,11,35261.16,2024-09-24,524,2023-01-22,High Value Churned
+CUST-1272,Angela Morrison,smithnicole@example.com,Bronze,Cagayan de Oro,In-Store,6,35241.79,2024-09-23,525,2023-02-08,High Value Churned
+CUST-1395,John Silva,maynatalie@example.org,Bronze,Pampanga,In-Store,3,34044.41,2024-04-20,681,2023-03-21,High Value Churned
+CUST-1065,Samantha Davis,kathleenmorgan@example.com,Silver,Cagayan de Oro,In-Store,4,33825.45,2024-09-22,526,2023-11-23,High Value Churned
+CUST-1020,Debbie Coffey,stacey78@example.com,Bronze,Iloilo,In-Store,3,33393.99,2024-03-18,714,2023-05-06,High Value Churned
+CUST-1101,John Alexander,owenssusan@example.com,Silver,Laguna,In-Store,9,33097.05,2024-07-29,581,2023-03-23,High Value Churned
+CUST-1173,Miranda Herrera,cervantesthomas@example.org,Silver,Cebu,Online,4,31701.87,2023-08-11,934,2023-04-03,High Value Churned
+CUST-1262,Jason Green,hollowayhoward@example.net,Bronze,Cebu,In-Store,6,31436.9,2024-09-25,523,2023-01-03,High Value Churned
+CUST-1391,Michael Smith,patrick19@example.org,Bronze,NCR,Both,11,30640.49,2024-08-27,552,2023-02-07,High Value Churned
+CUST-1167,Jasmin Castro,juliaellis@example.com,Silver,Cagayan de Oro,In-Store,10,30456.77,2024-09-23,525,2023-01-05,High Value Churned
+CUST-1082,Luis Keith,ashley42@example.net,Gold,Laguna,Online,4,30174.7,2024-07-05,605,2023-02-01,High Value Churned
+CUST-1360,Brian Keller,vgray@example.net,Platinum,Batangas,Both,2,29842.46,2024-03-12,720,2023-12-22,At Risk
+CUST-1189,Stephen Pitts,matthew78@example.com,Platinum,Pampanga,Online,6,29508.12,2024-05-29,642,2023-01-01,High Value Churned
+CUST-1290,Connie Bush,christine56@example.net,Bronze,Cebu,In-Store,4,29438.91,2024-07-04,606,2023-07-06,High Value Churned
+CUST-1084,Elizabeth Foster,xmoyer@example.com,Platinum,Cagayan de Oro,In-Store,7,28525.01,2024-08-18,561,2023-02-18,High Value Churned
+CUST-1239,Victoria Clark,kevinrodriguez@example.net,Bronze,Unknown,Online,3,27966.63,2024-01-16,776,2023-01-22,High Value Churned
+CUST-1163,Glenn Jordan,webbmorgan@example.net,Gold,Cebu,In-Store,9,27928.28,2024-09-29,519,2023-01-26,High Value Churned
+CUST-1171,Brian Butler,ochambers@example.org,Bronze,Davao,Both,2,27707.81,2024-08-17,562,2023-09-15,At Risk
+CUST-1385,Robert Trujillo,zflynn@example.net,Gold,Iloilo,Online,3,26953.53,2024-09-28,520,2023-02-16,High Value Churned
+CUST-1107,Brian Murray,juan92@example.net,Platinum,Batangas,Online,9,26876.01,2024-09-05,543,2023-02-04,High Value Churned
+CUST-1371,Kenneth Clark DDS,mitchellderrick@example.org,Bronze,Pampanga,In-Store,3,26627.54,2023-10-05,879,2023-01-30,High Value Churned
+CUST-1209,Glenda Leonard,twilliams@example.com,Gold,NCR,In-Store,6,26513.74,2023-06-23,983,2023-01-02,High Value Churned
+CUST-1205,Thomas Murphy,vwong@example.com,Silver,Davao,In-Store,10,26249.69,2023-06-08,998,2023-01-08,High Value Churned
+CUST-1317,Jennifer Barnes,chernandez@example.com,Bronze,Batangas,Both,4,24873.23,2023-06-24,982,2023-01-17,High Value Churned
+CUST-1269,Jacqueline Leach,herreramichelle@example.com,Silver,Batangas,Online,5,24657.31,2024-04-16,685,2023-03-13,High Value Churned
+CUST-1199,Catherine Brown,margaret66@example.net,Silver,NCR,Online,4,24396.1,2024-09-09,539,2023-02-02,High Value Churned
+CUST-1080,Brandon Howard,nancy70@example.net,Silver,Cagayan de Oro,In-Store,11,23972.57,2024-07-20,590,2023-03-31,High Value Churned
+CUST-1263,Brian Howell,johnmorales@example.net,Platinum,Davao,Both,5,23495.46,2024-03-28,704,2023-01-23,High Value Churned
+CUST-1231,Cynthia Stevenson,spencer79@example.net,Silver,NCR,Both,7,23133.25,2023-11-12,841,2023-01-13,High Value Churned
+CUST-1178,Dr. Tanya Stewart,jeffreyrussell@example.org,Bronze,Pampanga,Online,9,23013.47,2024-09-21,527,2023-01-30,High Value Churned
+CUST-1242,Eddie Solomon,mark11@example.com,Silver,Laguna,In-Store,10,22768.04,2024-02-14,747,2023-01-20,High Value Churned
+CUST-1030,Beverly Knapp,flowerssamantha@example.org,Silver,Batangas,Both,10,22759.88,2024-08-08,571,2023-07-05,High Value Churned
+CUST-1282,Wendy Mills,benjamin87@example.org,Gold,Iloilo,In-Store,7,22758.21,2024-04-24,677,2023-01-28,High Value Churned
+CUST-1259,Scott Miller,ramosspencer@example.com,Bronze,Batangas,Both,3,22069.91,2024-08-19,560,2023-05-13,High Value Churned
+CUST-1248,Jennifer Gonzales,carlabruce@example.com,Bronze,Davao,Both,4,21878.0,2023-02-28,1098,2023-01-07,High Value Churned
+CUST-1121,Jessica Williams,bgibson@example.net,Silver,Cagayan de Oro,Both,8,21769.76,2024-08-29,550,2023-07-24,High Value Churned
+CUST-1400,Bradley Wright,dolson@example.net,Silver,Cebu,In-Store,4,20943.38,2024-03-11,721,2023-04-20,High Value Churned
+CUST-1196,Kelsey Watson,christinarichardson@example.com,Bronze,Laguna,Both,9,20691.99,2024-07-27,583,2023-02-08,High Value Churned
+CUST-1361,Michelle Collins,htodd@example.com,Bronze,Pampanga,Online,8,20070.39,2023-10-08,876,2023-01-01,High Value Churned
+CUST-1230,Scott Chavez,carlos92@example.com,Silver,Davao,Both,7,20011.76,2024-08-15,564,2023-01-30,High Value Churned
+CUST-1364,Joseph Nelson,scott19@example.net,Bronze,Pampanga,Online,3,20007.26,2024-03-14,718,2023-05-09,High Value Churned
+CUST-1334,Jon Stafford,patriciaflores@example.org,Bronze,Pampanga,Online,4,19956.7,2024-06-07,633,2023-01-17,High Value Churned
+CUST-1174,Jessica Wheeler,autumnrobertson@example.org,Bronze,NCR,In-Store,9,19353.98,2024-06-26,614,2023-04-14,High Value Churned
+CUST-1332,Lawrence Mullins,wgomez@example.net,Bronze,Cebu,Online,7,19105.72,2024-03-14,718,2023-01-04,High Value Churned
+CUST-1113,Karen Wiggins,lawrence59@example.com,Silver,Davao,Online,8,18958.92,2024-09-13,535,2023-01-13,High Value Churned
+CUST-1212,Matthew Henderson,vrodriguez@example.com,Silver,NCR,Online,3,18863.94,2023-11-17,836,2023-02-09,High Value Churned
+CUST-1104,Tracey Martin,nschwartz@example.net,Bronze,Batangas,Online,3,18645.56,2023-09-08,906,2023-03-24,High Value Churned
+CUST-1284,Timothy Sanders,cynthiahines@example.net,Gold,Iloilo,Online,6,18362.88,2024-08-28,551,2023-04-05,High Value Churned
+CUST-1224,Eric Nichols,eric63@example.org,Silver,Cebu,In-Store,5,18359.79,2024-02-19,742,2023-04-01,High Value Churned
+CUST-1353,James Moore,thomas62@example.net,Platinum,NCR,Online,5,18354.16,2023-06-14,992,2023-01-05,High Value Churned
+CUST-1308,Andrew Lawson,jordanwright@example.com,Gold,NCR,Both,6,18335.41,2023-06-21,985,2023-01-12,High Value Churned
+CUST-1302,Michelle Buckley,katherine54@example.org,Gold,Davao,In-Store,4,18138.67,2023-04-27,1040,2023-03-20,High Value Churned
+CUST-1092,Theodore Williams,cmueller@example.com,Bronze,Davao,Online,8,17667.7,2024-09-11,537,2023-01-07,High Value Churned
+CUST-1118,Joseph Lopez,deanna29@example.org,Silver,Iloilo,Both,5,17529.57,2024-04-26,675,2023-02-09,High Value Churned
+CUST-1344,Michael Moran,stephenmay@example.net,Bronze,Laguna,Online,3,17334.73,2024-02-24,737,2023-03-07,High Value Churned
+CUST-1320,Ray Ross,susanharrell@example.org,Gold,Cagayan de Oro,Online,5,17305.38,2024-07-02,608,2023-02-15,High Value Churned
+CUST-1024,Kimberly Boyd,danielle73@example.org,Bronze,Cebu,In-Store,4,16964.93,2024-05-27,644,2023-12-07,High Value Churned
+CUST-1321,Kelly Willis,allenjoseph@example.org,Silver,Batangas,In-Store,2,16665.44,2023-12-24,799,2023-12-06,At Risk
+CUST-1105,Jennifer Cox,suttonmelissa@example.com,Bronze,Batangas,Both,3,16036.94,2024-09-23,525,2024-06-03,High Value Churned
+CUST-1397,Jeffrey Wells,sandovalsheri@example.org,Silver,Iloilo,Online,2,15717.37,2024-08-26,553,2023-01-23,At Risk
+CUST-1268,Rachel Simon,richard47@example.org,Silver,NCR,Both,5,15429.17,2024-09-16,532,2023-05-05,High Value Churned
+CUST-1221,James Phillips,tamara65@example.org,Bronze,Batangas,In-Store,3,15366.6,2024-08-01,578,2024-01-06,High Value Churned
+CUST-1275,Joshua Holland,spearsmichael@example.org,Bronze,Batangas,In-Store,1,15364.1,2024-02-03,758,2024-02-03,Slipping Away
+CUST-1018,Kelsey Griffin,travis17@example.net,Silver,Pampanga,Both,3,15063.63,2024-09-29,519,2023-04-24,High Value Churned
+CUST-1228,Mark Bright,barbara37@example.net,Bronze,Unknown,Online,1,14587.1,2023-01-28,1129,2023-01-28,Slipping Away
+CUST-1363,Karen Lewis,mary27@example.org,Platinum,Davao,Online,4,14219.21,2024-09-24,524,2023-04-13,High Value Churned
+CUST-1283,Brandy Macdonald,danielalvarez@example.net,Bronze,Iloilo,In-Store,6,13989.44,2023-08-19,926,2023-02-26,High Value Churned
+CUST-1188,Steve Freeman,briannabarnes@example.net,Bronze,Cagayan de Oro,In-Store,1,13794.89,2023-05-06,1031,2023-05-06,Slipping Away
+CUST-1072,Heather Hill,arthur32@example.org,Platinum,Cebu,Online,3,13644.19,2024-07-05,605,2023-04-17,High Value Churned
+CUST-1070,Peter Baker,nathaniel01@example.net,Bronze,Iloilo,In-Store,4,13622.22,2023-10-26,858,2023-07-02,High Value Churned
+CUST-1307,Robert Ryan,colemarvin@example.org,Gold,Pampanga,Both,5,13532.62,2023-06-27,979,2023-02-22,High Value Churned
+CUST-1164,Amy Gibson DVM,valdezsamuel@example.com,Bronze,NCR,Both,2,13465.71,2024-02-14,747,2023-04-30,At Risk
+CUST-1031,Kevin Taylor,rrodriguez@example.net,Bronze,Pampanga,Online,7,13414.11,2024-05-04,667,2023-02-07,High Value Churned
+CUST-1240,Kimberly Clay,cstevens@example.com,Bronze,Pampanga,Both,1,13164.64,2024-01-20,772,2024-01-20,Slipping Away
+CUST-1203,Elizabeth Munoz,jasonarmstrong@example.net,Platinum,Laguna,Online,5,13134.81,2023-08-15,930,2023-01-07,High Value Churned
+CUST-1339,Deanna Moore,james41@example.net,Silver,Iloilo,Online,2,12774.9,2024-01-04,788,2023-07-28,At Risk
+CUST-1241,Matthew Gomez,richardsonrenee@example.net,Gold,Davao,Both,1,12636.72,2024-08-02,577,2024-08-02,Slipping Away
+CUST-1348,Sandra Cole,steven42@example.com,Silver,NCR,Online,3,12495.72,2024-03-22,710,2023-10-21,High Value Churned
+CUST-1056,Erica Chandler,grahamgloria@example.com,Gold,Iloilo,Online,2,12454.37,2023-06-14,992,2023-06-01,At Risk
+CUST-1195,Tiffany Lara,johncrawford@example.org,Platinum,Pampanga,Both,2,12404.5,2024-01-25,767,2023-03-28,At Risk
+CUST-1352,Rebecca Burns,milesteresa@example.org,Platinum,NCR,Both,3,12207.35,2024-08-12,567,2023-06-12,High Value Churned
+CUST-1066,Joseph Baker,dwatson@example.net,Bronze,Pampanga,In-Store,1,12194.37,2024-06-09,631,2024-06-09,Slipping Away
+CUST-1061,Jennifer Brennan,heathersmith@example.org,Bronze,NCR,Online,3,12155.1,2023-11-12,841,2023-06-01,High Value Churned
+CUST-1368,Rebecca Moore,ericbishop@example.org,Bronze,Iloilo,In-Store,2,12110.58,2023-08-18,927,2023-05-03,At Risk
+CUST-1327,Daniel Hoffman,petersonkimberly@example.com,Silver,Batangas,Online,4,12067.0,2024-05-26,645,2023-04-24,High Value Churned
+CUST-1011,Patty Cordova,xmercer@example.net,Gold,NCR,Online,2,11862.9,2024-05-31,640,2024-01-10,At Risk
+CUST-1292,Lori Silva,jessica61@example.com,Bronze,Laguna,Both,3,11682.19,2024-09-29,519,2023-04-05,High Value Churned
+CUST-1097,Cheryl Hill,kgrimes@example.net,Gold,NCR,Online,2,11609.56,2023-08-03,942,2023-04-07,At Risk
+CUST-1366,Melissa Adkins,kkim@example.org,Silver,Batangas,In-Store,5,11569.89,2024-04-20,681,2023-04-11,High Value Churned
+CUST-1111,Clifford Gonzales,pamelabuck@example.com,Silver,Davao,Both,1,11527.32,2023-12-23,800,2023-12-23,Slipping Away
+CUST-1229,Yolanda Hurley DDS,tramirez@example.com,Silver,NCR,Both,4,10892.55,2023-11-02,851,2023-02-07,High Value Churned
+CUST-1039,Connor Greene,landrychristopher@example.com,Silver,NCR,In-Store,2,10838.46,2024-03-13,719,2023-07-20,At Risk
+CUST-1314,Jeffrey Maxwell,carrcarolyn@example.net,Bronze,Laguna,Online,4,10649.17,2024-03-20,712,2023-03-21,High Value Churned
+CUST-1064,Kaitlyn Schultz,moorejared@example.org,Bronze,Iloilo,In-Store,2,10552.23,2023-08-12,933,2023-04-29,At Risk
+CUST-1219,Tina Savage,raymondtorres@example.net,Bronze,Batangas,In-Store,1,10456.3,2023-07-01,975,2023-07-01,Slipping Away
+CUST-1045,Alexander Marshall,danielsjohn@example.org,Bronze,Cagayan de Oro,Online,3,10335.07,2024-01-06,786,2023-01-27,High Value Churned
+CUST-1042,Gregory Little,paulmay@example.net,Silver,NCR,Both,2,10190.45,2023-03-01,1097,2023-01-05,At Risk
+CUST-1294,Adam Gibson,tracythompson@example.com,Gold,Batangas,Online,1,10169.92,2023-01-13,1144,2023-01-13,Slipping Away
+CUST-1013,Tonya Wilson,josephmartin@example.com,Bronze,Pampanga,In-Store,4,10148.4,2024-09-23,525,2023-10-16,High Value Churned
+CUST-1381,Monica Galvan,moorekelsey@example.org,Bronze,Laguna,Both,1,10140.66,2023-08-31,914,2023-08-31,Slipping Away
+CUST-1010,Trevor Cruz,iwiley@example.net,Bronze,Unknown,Online,4,10102.95,2024-09-17,531,2023-05-11,High Value Churned
+CUST-1200,Catherine Robinson,whitejill@example.com,Silver,Davao,Online,1,10013.5,2024-03-09,723,2024-03-09,Slipping Away
+CUST-1340,Nicole Martinez,micheleestrada@example.net,Bronze,Laguna,Both,6,9997.05,2023-05-03,1034,2023-01-01,At Risk
+CUST-1222,Sally Finley,markbishop@example.org,Bronze,NCR,Both,4,9966.5,2024-08-30,549,2023-02-07,At Risk
+CUST-1149,Sarah Oneill,alfred68@example.com,Silver,Cebu,In-Store,2,9951.64,2024-01-23,769,2024-01-09,At Risk
+CUST-1068,Jessica Diaz,watsonsara@example.net,Bronze,Laguna,In-Store,4,9909.8,2024-09-10,538,2023-02-17,At Risk
+CUST-1351,Tonya Graham,harnold@example.org,Bronze,NCR,In-Store,4,9903.38,2023-06-14,992,2023-03-30,At Risk
+CUST-1227,Mary Howell,leah77@example.net,Bronze,Iloilo,Online,3,9901.87,2023-07-29,947,2023-04-19,At Risk
+CUST-1012,Denise Garcia,michaelharrington@example.org,Silver,Pampanga,Online,4,9788.14,2024-06-15,625,2023-01-07,At Risk
+CUST-1257,Brian Thomas,znorris@example.net,Silver,Pampanga,Both,2,9456.71,2023-09-04,910,2023-06-06,At Risk
+CUST-1378,Jessica Young,gina07@example.com,Bronze,Laguna,Online,3,9385.38,2024-03-04,728,2023-05-02,At Risk
+CUST-1103,Kevin Hawkins,davidsondavid@example.com,Bronze,Laguna,In-Store,3,9345.26,2024-09-02,546,2023-07-10,At Risk
+CUST-1007,Tim Wilson,gvillegas@example.org,Bronze,Batangas,Both,2,9194.33,2024-01-12,780,2023-08-31,At Risk
+CUST-1289,Daniel Arnold,markwilliamson@example.org,Silver,Batangas,Both,1,9020.24,2023-02-17,1109,2023-02-17,Slipping Away
+CUST-1055,Blake Stephens,rsmith@example.net,Bronze,Unknown,Both,3,8899.31,2023-10-15,869,2023-02-25,At Risk
+CUST-1399,William Mccarty,tholmes@example.org,Bronze,Davao,Both,2,8891.54,2023-08-30,915,2023-03-15,At Risk
+CUST-1216,Alexandra Wilson,oliverdavid@example.org,Bronze,Davao,In-Store,1,8804.92,2023-05-20,1017,2023-05-20,Slipping Away
+CUST-1186,Tracy Crane,zachary87@example.net,Platinum,Pampanga,Online,3,8657.55,2024-06-30,610,2023-07-08,At Risk
+CUST-1048,Thomas Brown,williamsamy@example.com,Silver,Iloilo,Online,1,8565.39,2023-09-18,896,2023-09-18,Slipping Away
+CUST-1160,Amanda Rivera,nancy42@example.com,Gold,Batangas,In-Store,3,8531.86,2024-06-12,628,2023-06-11,At Risk
+CUST-1380,Jeffrey White MD,baileykelly@example.org,Platinum,NCR,Online,3,8527.29,2024-02-20,741,2023-01-29,At Risk
+CUST-1215,Timothy Johnson,kchen@example.org,Bronze,Davao,In-Store,3,8527.09,2024-04-01,700,2023-02-20,At Risk
+CUST-1175,Michelle Jackson,uvalentine@example.org,Gold,Pampanga,Online,3,8465.66,2024-03-02,730,2023-04-25,At Risk
+CUST-1115,Adam Mckee,melissawilliams@example.com,Silver,Pampanga,Online,2,8457.6,2023-09-20,894,2023-08-19,At Risk
+CUST-1373,Sandra Henderson,hunterchristina@example.org,Bronze,Iloilo,In-Store,2,8432.83,2023-06-02,1004,2023-04-25,At Risk
+CUST-1001,Erika Allen,carterstephanie@example.net,Bronze,Batangas,Online,4,8399.68,2024-07-14,596,2023-07-08,At Risk
+CUST-1383,Miguel Silva V,christopherbailey@example.org,Silver,Cebu,Both,3,8343.39,2023-09-13,901,2023-03-29,At Risk
+CUST-1201,Brandon Owens,knightsteven@example.net,Silver,Unknown,Online,2,8330.62,2024-02-11,750,2023-08-22,At Risk
+CUST-1074,Randy Hill,roberteverett@example.org,Platinum,NCR,In-Store,2,8304.24,2024-08-25,554,2023-11-30,At Risk
+CUST-1306,Carly Patterson,chelsealong@example.net,Silver,Laguna,Online,3,8289.18,2024-04-11,690,2023-04-12,At Risk
+CUST-1166,Jon Lee,peter68@example.com,Bronze,Cebu,In-Store,2,8225.53,2024-04-22,679,2024-04-06,At Risk
+CUST-1293,Paul Lopez,qjohnson@example.com,Silver,Pampanga,Online,3,7910.19,2024-08-31,548,2023-04-02,At Risk
+CUST-1358,Dr. Amber Dominguez MD,andrewsavage@example.net,Gold,Laguna,Both,3,7878.91,2024-07-02,608,2023-02-05,At Risk
+CUST-1131,Kenneth Williamson,noneill@example.com,Gold,NCR,In-Store,2,7727.54,2024-02-02,759,2023-08-04,At Risk
+CUST-1343,Kent Jones,michaelpatterson@example.net,Bronze,Cebu,Both,2,7723.86,2023-06-15,991,2023-02-21,At Risk
+CUST-1329,Joseph Hensley,crystal65@example.org,Platinum,NCR,Online,3,7635.61,2024-09-19,529,2023-01-17,At Risk
+CUST-1312,Teresa Robinson,whill@example.com,Silver,Cebu,Online,4,7577.33,2024-08-14,565,2023-03-19,At Risk
+CUST-1256,Carlos Anderson,cassandra18@example.org,Gold,Batangas,In-Store,3,7511.04,2024-09-20,528,2023-08-08,At Risk
+CUST-1078,Katie Guerra,kwolf@example.org,Bronze,Davao,Both,1,7450.66,2024-07-28,582,2024-07-28,Slipping Away
+CUST-1325,Darrell Ryan,srobinson@example.net,Gold,Pampanga,Both,3,7305.2,2024-03-01,731,2023-01-11,At Risk
+CUST-1179,Christina Padilla,ana01@example.com,Bronze,Davao,In-Store,3,7274.28,2024-05-20,651,2023-04-09,At Risk
+CUST-1040,Carlos Pierce,catherine02@example.com,Silver,Cagayan de Oro,Online,2,7256.55,2023-12-11,812,2023-07-12,At Risk
+CUST-1035,Raven Riddle,clinton63@example.com,Platinum,Laguna,Online,3,7137.84,2024-08-07,572,2024-02-25,At Risk
+CUST-1279,Pamela Lawrence,amanda63@example.net,Bronze,NCR,Both,3,7066.15,2024-08-27,552,2023-03-02,At Risk
+CUST-1184,Christopher Fields,cvazquez@example.com,Silver,Laguna,Both,1,7041.05,2023-03-01,1097,2023-03-01,Slipping Away
+CUST-1326,Daniel Thomas,michaelobrien@example.net,Bronze,Cagayan de Oro,In-Store,1,7040.36,2024-02-03,758,2024-02-03,Slipping Away
+CUST-1059,Jason Bush,carolyn19@example.com,Silver,Cagayan de Oro,In-Store,2,6876.49,2024-01-03,789,2023-04-20,At Risk
+CUST-1085,Gabriel Roach,fprice@example.com,Silver,Batangas,In-Store,1,6868.68,2023-04-26,1041,2023-04-26,Slipping Away
+CUST-1303,Amanda Thomas,ytorres@example.org,Silver,Pampanga,Both,4,6847.91,2024-05-31,640,2023-02-25,At Risk
+CUST-1342,Alex Benson,darren68@example.net,Bronze,Pampanga,Both,4,6795.68,2024-09-04,544,2023-06-22,At Risk
+CUST-1384,Todd Middleton,xhorn@example.com,Bronze,Batangas,Both,1,6674.38,2023-06-17,989,2023-06-17,Slipping Away
+CUST-1244,Sarah Shelton,ramirezrachel@example.net,Silver,Batangas,Both,4,6672.92,2023-03-10,1088,2023-01-28,At Risk
+CUST-1265,Daniel Johnson,bsolomon@example.com,Silver,Cagayan de Oro,Both,2,6596.2,2024-08-28,551,2024-02-04,At Risk
+CUST-1146,William Kelley,scruz@example.org,Silver,Cagayan de Oro,Online,1,6540.24,2024-01-25,767,2024-01-25,Slipping Away
+CUST-1180,Richard Miller,christopherlee@example.com,Bronze,NCR,In-Store,1,6501.8,2023-04-28,1039,2023-04-28,Slipping Away
+CUST-1110,Sean Townsend,williamsonanthony@example.net,Gold,Iloilo,Online,3,6385.3,2024-02-04,757,2023-01-10,At Risk
+CUST-1389,Ricky Davis,christy58@example.net,Bronze,Batangas,In-Store,2,6315.68,2023-05-15,1022,2023-01-29,At Risk
+CUST-1355,Brian Morrison,castillomichelle@example.com,Gold,Cebu,Both,3,6303.6,2024-06-10,630,2023-11-10,At Risk
+CUST-1369,Richard Douglas,leblancdominic@example.org,Silver,Batangas,Both,1,6301.54,2023-09-28,886,2023-09-28,Slipping Away
+CUST-1278,Tracy Boyer,aanderson@example.net,Bronze,NCR,Both,3,6266.49,2024-09-03,545,2023-06-14,At Risk
+CUST-1073,Devin Pena,idickerson@example.net,Bronze,NCR,Online,2,5992.78,2024-04-13,688,2023-04-23,At Risk
+CUST-1386,Rebecca Hurst,vsanchez@example.org,Silver,Batangas,Both,3,5931.48,2023-06-22,984,2023-02-25,At Risk
+CUST-1198,David Jones,wayne92@example.com,Silver,Cagayan de Oro,Both,2,5820.85,2024-07-23,587,2024-05-06,At Risk
+CUST-1182,Samuel Morgan,ucummings@example.com,Bronze,Cagayan de Oro,Both,2,5819.18,2024-06-20,620,2024-04-05,At Risk
+CUST-1387,David Sawyer,starkharold@example.com,Bronze,Cebu,In-Store,1,5789.76,2023-12-21,802,2023-12-21,Slipping Away
+CUST-1297,Paul Sanchez,brownapril@example.org,Bronze,Cebu,Online,4,5752.11,2023-12-09,814,2023-02-28,At Risk
+CUST-1126,David Compton,ramirezmichael@example.net,Bronze,Iloilo,In-Store,4,5705.92,2024-03-12,720,2023-01-28,At Risk
+CUST-1374,Michael Garrett,benjamin52@example.com,Bronze,NCR,In-Store,1,5672.24,2023-02-08,1118,2023-02-08,Slipping Away
+CUST-1025,Mark Hall,julie57@example.com,Gold,Cagayan de Oro,In-Store,3,5663.67,2023-10-06,878,2023-03-01,At Risk
+CUST-1246,Carrie Jones,laurawallace@example.net,Silver,Cebu,Both,1,5637.65,2023-09-14,900,2023-09-14,Slipping Away
+CUST-1158,Chelsey Robbins,amberhart@example.com,Bronze,Laguna,Online,2,5591.68,2024-03-05,727,2023-02-02,At Risk
+CUST-1313,Angie Morris,phillipstaylor@example.net,Bronze,Pampanga,Online,3,5577.54,2024-06-19,621,2023-03-22,At Risk
+CUST-1296,Jaclyn Weaver,gabriel18@example.org,Bronze,Iloilo,Online,1,5573.76,2023-08-20,925,2023-08-20,Slipping Away
+CUST-1002,Cheryl Cuevas,uwhite@example.org,Silver,Unknown,Both,3,5546.68,2024-04-11,690,2023-11-26,At Risk
+CUST-1120,Connor Johnson,kimberly53@example.com,Silver,Davao,Online,1,5502.96,2023-05-22,1015,2023-05-22,Slipping Away
+CUST-1291,Angela Wright,davismargaret@example.net,Bronze,Davao,Online,1,5439.48,2024-02-28,733,2024-02-28,Slipping Away
+CUST-1354,Richard Barnes,thomaswest@example.org,Gold,Batangas,In-Store,3,5384.04,2024-06-29,611,2023-07-12,At Risk
+CUST-1304,Benjamin Madden,richardclark@example.net,Bronze,Pampanga,Both,2,5192.18,2024-06-07,633,2023-07-14,At Risk
+CUST-1041,Renee Shaw,wtaylor@example.net,Bronze,Cagayan de Oro,In-Store,1,5148.72,2023-05-02,1035,2023-05-02,Slipping Away
+CUST-1091,Anthony Wheeler,valeriejones@example.net,Gold,Davao,Both,4,5118.65,2024-05-24,647,2023-07-23,At Risk
+CUST-1394,Dawn Simpson,othompson@example.net,Bronze,Cebu,Both,1,4927.26,2024-01-06,786,2024-01-06,Slipping Away
+CUST-1140,Matthew Bender,bradwest@example.com,Gold,Laguna,Online,1,4909.14,2023-03-22,1076,2023-03-22,Slipping Away
+CUST-1016,Keith Mclaughlin,taylor37@example.net,Bronze,Unknown,Online,2,4879.92,2023-12-21,802,2023-05-08,At Risk
+CUST-1046,Cody Anderson,nrose@example.net,Platinum,Laguna,In-Store,2,4856.26,2024-08-18,561,2023-06-09,At Risk
+CUST-1287,Jennifer Duran,nhaley@example.org,Bronze,Laguna,In-Store,3,4817.14,2024-07-20,590,2024-01-17,At Risk
+CUST-1090,Maria Dennis,annawilliams@example.net,Bronze,Cebu,In-Store,3,4711.7,2024-08-14,565,2023-10-15,At Risk
+CUST-1100,Adrienne Nelson,brittany60@example.net,Silver,Unknown,Both,2,4707.02,2023-12-05,818,2023-03-02,At Risk
+CUST-1058,Douglas Chavez,keithcampbell@example.net,Bronze,Davao,Both,1,4706.82,2023-12-09,814,2023-12-09,Slipping Away
+CUST-1125,Paula Welch,lsantos@example.org,Silver,Iloilo,Both,1,4549.78,2024-03-03,729,2024-03-03,Slipping Away
+CUST-1249,Destiny Allen,courtney42@example.net,Bronze,NCR,Both,2,4515.13,2024-03-14,718,2023-03-05,At Risk
+CUST-1207,Deanna Torres,logan53@example.org,Bronze,Batangas,Both,2,4505.72,2024-02-17,744,2023-03-07,At Risk
+CUST-1214,Jill Fuller,angela09@example.com,Silver,Unknown,Online,2,4477.98,2024-01-25,767,2023-03-17,At Risk
+CUST-1029,Christopher Adams,robertramsey@example.org,Bronze,Iloilo,Both,1,4468.12,2024-05-19,652,2024-05-19,Slipping Away
+CUST-1137,Gregory Lopez,butlerjose@example.net,Bronze,Cagayan de Oro,Both,2,4309.36,2024-09-04,544,2024-02-24,At Risk
+CUST-1053,Stephanie Leon,zdavidson@example.org,Platinum,Laguna,In-Store,1,4216.9,2023-09-25,889,2023-09-25,Slipping Away
+CUST-1142,Jessica White,elizabeth27@example.com,Bronze,Cagayan de Oro,In-Store,3,4193.65,2024-09-01,547,2023-07-31,At Risk
+CUST-1388,Robert Smith,zheath@example.com,Silver,Davao,In-Store,2,4155.28,2024-02-14,747,2024-02-03,At Risk
+CUST-1153,Melissa Ayala,suttongary@example.org,Bronze,Laguna,Online,2,4122.17,2023-11-22,831,2023-03-22,At Risk
+CUST-1398,Blake Alvarez,lbrewer@example.org,Bronze,Batangas,Online,3,4118.33,2024-01-03,789,2023-04-09,At Risk
+CUST-1356,Alan Williams,theodorevaldez@example.net,Bronze,Iloilo,Online,3,4073.84,2024-06-03,637,2023-03-12,At Risk
+CUST-1021,Ashley Kelly MD,gabrielvasquez@example.com,Bronze,Cebu,Online,2,4062.32,2024-03-09,723,2023-08-12,At Risk
+CUST-1079,Benjamin Perkins,florescaroline@example.org,Bronze,Davao,Both,2,4016.83,2024-07-23,587,2024-07-12,At Risk
+CUST-1333,Michael Knight,smithpamela@example.com,Silver,Davao,Both,2,4015.46,2023-07-21,955,2023-02-03,At Risk
+CUST-1237,Leslie Lopez,matthewdixon@example.org,Bronze,Laguna,Both,1,4002.78,2024-05-05,666,2024-05-05,Slipping Away
+CUST-1023,Mr. Joshua Pitts,april90@example.net,Silver,Batangas,Online,2,3997.95,2024-02-05,756,2023-06-25,At Risk
+CUST-1300,Christopher Harding,kristy03@example.net,Silver,Cebu,In-Store,2,3962.58,2024-06-01,639,2023-05-21,At Risk
+CUST-1338,Charles Benjamin,daviddavis@example.net,Platinum,Batangas,In-Store,1,3953.62,2024-09-28,520,2024-09-28,Slipping Away
+CUST-1032,Miguel Ross,mpetty@example.org,Silver,Cagayan de Oro,Online,1,3860.04,2024-06-02,638,2024-06-02,Slipping Away
+CUST-1350,Pamela Vasquez,ronald61@example.com,Platinum,Unknown,Online,3,3812.43,2024-05-18,653,2023-05-19,At Risk
+CUST-1261,Joan Lopez,jacob21@example.org,Gold,Cagayan de Oro,In-Store,3,3786.59,2023-06-05,1001,2023-05-01,At Risk
+CUST-1258,Laura Long,timothycollins@example.net,Bronze,Davao,Online,2,3771.24,2023-10-24,860,2023-09-26,At Risk
+CUST-1346,Elizabeth Taylor,allison07@example.net,Bronze,Iloilo,Both,1,3752.36,2023-03-27,1071,2023-03-27,Slipping Away
+CUST-1136,Brenda Riley,matthew65@example.com,Platinum,Laguna,Both,2,3709.36,2024-05-01,670,2023-10-04,At Risk
+CUST-1328,Mark Patterson,amandaevans@example.org,Bronze,Davao,In-Store,1,3708.31,2024-09-07,541,2024-09-07,Slipping Away
+CUST-1367,Charles Hardin,sallen@example.org,Bronze,Batangas,Both,1,3633.68,2023-02-06,1120,2023-02-06,Slipping Away
+CUST-1202,Adrian Andrews,dawn18@example.com,Platinum,Iloilo,In-Store,2,3610.99,2024-01-21,771,2023-02-19,At Risk
+CUST-1251,John Ross,cindy09@example.com,Bronze,Iloilo,Both,3,3610.96,2023-10-08,876,2023-04-20,At Risk
+CUST-1234,Cynthia Smith,jakehatfield@example.com,Silver,Laguna,Both,2,3549.84,2024-06-13,627,2023-06-02,At Risk
+CUST-1225,Benjamin Decker,rodriguezmandy@example.com,Silver,NCR,Both,1,3336.66,2023-08-31,914,2023-08-31,Slipping Away
+CUST-1286,Christopher Fuller,denisemiller@example.net,Bronze,Batangas,Both,1,3311.88,2023-06-18,988,2023-06-18,Slipping Away
+CUST-1150,Ryan Powell,awright@example.org,Gold,Cebu,Online,1,3309.46,2023-02-01,1125,2023-02-01,Slipping Away
+CUST-1086,Tammy Garner,garciaphilip@example.com,Bronze,Iloilo,In-Store,1,3248.56,2023-07-13,963,2023-07-13,Slipping Away
+CUST-1260,Mrs. Jenna Huffman,meghan25@example.net,Gold,Batangas,In-Store,1,3197.04,2024-01-28,764,2024-01-28,Slipping Away
+CUST-1233,Shannon Holder,douglas51@example.com,Silver,Laguna,In-Store,1,3182.88,2023-02-21,1105,2023-02-21,Slipping Away
+CUST-1089,Eric Williams,watsonbriana@example.net,Bronze,Pampanga,Both,2,3172.15,2023-09-12,902,2023-04-30,At Risk
+CUST-1252,Shawn Horton,benjaminandrews@example.net,Gold,Davao,Both,2,3061.05,2024-07-20,590,2023-02-16,At Risk
+CUST-1218,Jose Grant,nicholas09@example.org,Gold,Batangas,In-Store,2,3057.96,2023-03-21,1077,2023-03-10,At Risk
+CUST-1266,Heather Walker,mmiller@example.net,Silver,Pampanga,In-Store,3,2852.35,2024-04-03,698,2023-06-25,At Risk
+CUST-1238,Donald Allen,christina83@example.net,Gold,Cebu,Online,1,2782.44,2024-01-18,774,2024-01-18,Slipping Away
+CUST-1276,Tiffany Murphy,ctravis@example.org,Platinum,Laguna,Both,1,2761.23,2023-10-01,883,2023-10-01,Slipping Away
+CUST-1210,Rhonda David,barbaramason@example.net,Gold,Davao,Both,1,2744.15,2023-02-11,1115,2023-02-11,Slipping Away
+CUST-1172,William Pugh,evan04@example.net,Bronze,Cagayan de Oro,Online,2,2639.41,2024-06-19,621,2023-08-15,At Risk
+CUST-1370,Emily Alvarez,bradley67@example.org,Silver,NCR,Both,1,2598.69,2023-11-06,847,2023-11-06,Slipping Away
+CUST-1382,Kimberly Thomas,thorntonashley@example.com,Gold,Cagayan de Oro,Online,1,2554.03,2023-02-06,1120,2023-02-06,Slipping Away
+CUST-1357,Chelsea Martinez,joshua50@example.com,Bronze,Davao,In-Store,3,2538.52,2024-08-21,558,2023-03-06,At Risk
+CUST-1005,Janice Valentine,williamscynthia@example.net,Gold,Cebu,Online,2,2499.98,2024-08-29,550,2023-11-03,At Risk
+CUST-1060,Chad Park,brewerjennifer@example.com,Gold,Batangas,Both,1,2498.37,2024-08-21,558,2024-08-21,Slipping Away
+CUST-1081,William Leonard,michaelday@example.org,Bronze,Laguna,Online,2,2469.82,2024-06-05,635,2023-01-30,At Risk
+CUST-1096,Eileen Becker,frank78@example.net,Silver,Davao,Both,1,2397.06,2024-08-08,571,2024-08-08,Slipping Away
+CUST-1112,Kimberly Moore,thompsondavid@example.org,Platinum,Laguna,Online,2,2396.54,2023-10-15,869,2023-02-15,At Risk
+CUST-1075,Felicia House,william75@example.com,Gold,Cebu,Online,1,2269.14,2023-07-22,954,2023-07-22,Slipping Away
+CUST-1362,David Huff,mendezmichael@example.org,Platinum,NCR,In-Store,2,2223.32,2024-05-16,655,2023-03-13,At Risk
+CUST-1359,Jacob Ho,zjennings@example.org,Bronze,Laguna,In-Store,1,2222.62,2023-04-18,1049,2023-04-18,Slipping Away
+CUST-1295,Holly Snow,danielle65@example.com,Bronze,Cebu,Online,2,2185.15,2023-11-14,839,2023-05-31,At Risk
+CUST-1148,John Leonard,tiffany56@example.org,Gold,Davao,Both,1,2154.82,2024-07-19,591,2024-07-19,Slipping Away
+CUST-1116,Holly Roberts,johnsonbrenda@example.org,Bronze,Pampanga,Both,1,1989.79,2024-07-30,580,2024-07-30,Slipping Away
+CUST-1145,Emily Lane,jason06@example.net,Bronze,Cagayan de Oro,Online,2,1964.47,2024-06-08,632,2024-01-25,At Risk
+CUST-1379,Briana Thompson,jacksonnatalie@example.net,Bronze,Batangas,In-Store,2,1893.37,2024-03-09,723,2023-05-28,At Risk
+CUST-1274,Jeffrey Velasquez,whiterachel@example.com,Platinum,Davao,In-Store,1,1817.92,2023-08-14,931,2023-08-14,Slipping Away
+CUST-1211,John Solis MD,kellygabriel@example.net,Bronze,Iloilo,In-Store,1,1763.82,2023-08-30,915,2023-08-30,Slipping Away
+CUST-1226,Stephen Stafford,alec50@example.com,Gold,Iloilo,Both,1,1751.76,2023-12-04,819,2023-12-04,Slipping Away
+CUST-1133,John Little,daviskevin@example.org,Bronze,Davao,Online,1,1751.06,2023-09-05,909,2023-09-05,Slipping Away
+CUST-1253,David Peterson,tanyasmith@example.net,Silver,Batangas,Both,1,1741.16,2023-08-15,930,2023-08-15,Slipping Away
+CUST-1273,Elizabeth King,ingramraymond@example.com,Bronze,Iloilo,In-Store,2,1725.96,2023-11-22,831,2023-02-12,At Risk
+CUST-1057,Theresa Nguyen,fitzpatrickalexis@example.org,Silver,Laguna,Online,1,1699.91,2023-08-14,931,2023-08-14,Slipping Away
+CUST-1185,Sharon Medina,samantha01@example.com,Silver,Laguna,Both,1,1667.41,2023-10-12,872,2023-10-12,Slipping Away
+CUST-1132,Andrew Brooks,christina43@example.com,Platinum,Batangas,Online,1,1663.96,2024-03-25,707,2024-03-25,Slipping Away
+CUST-1009,Joshua Roberts,andrewtucker@example.org,Bronze,Batangas,In-Store,1,1629.74,2024-09-27,521,2024-09-27,Slipping Away
+CUST-1310,Christopher Cole,jramos@example.org,Gold,Iloilo,In-Store,1,1583.36,2023-06-08,998,2023-06-08,Slipping Away
+CUST-1135,Laura Taylor,martinjackson@example.net,Gold,Cebu,Online,1,1573.72,2023-09-12,902,2023-09-12,Slipping Away
+CUST-1043,John Smith,stevensonmadison@example.com,Platinum,Laguna,In-Store,1,1570.08,2023-06-15,991,2023-06-15,Slipping Away
+CUST-1187,Renee Richardson,hernandezkeith@example.net,Platinum,Batangas,Both,2,1562.12,2024-09-09,539,2023-01-10,At Risk
+CUST-1108,Ryan Whitehead,boonerandall@example.org,Silver,Iloilo,Both,1,1489.85,2023-03-06,1092,2023-03-06,Slipping Away
+CUST-1177,Natalie Cruz,fadams@example.com,Gold,Batangas,Both,1,1485.12,2023-09-26,888,2023-09-26,Slipping Away
+CUST-1026,Brandon Harris,fperez@example.net,Bronze,Iloilo,Online,1,1426.75,2024-08-26,553,2024-08-26,Slipping Away
+CUST-1102,Debbie Allen,delacruztanner@example.org,Silver,Iloilo,Online,1,1354.5,2023-05-09,1028,2023-05-09,Slipping Away
+CUST-1393,Felicia Park,xsalas@example.net,Gold,Iloilo,Both,1,1332.35,2024-04-26,675,2024-04-26,Slipping Away
+CUST-1147,Ashley Griffin,ymoss@example.com,Bronze,Cebu,Both,2,1275.19,2024-04-01,700,2023-04-02,At Risk
+CUST-1044,Brian Gomez,scottrobert@example.com,Silver,Cagayan de Oro,Both,1,1249.4,2023-10-28,856,2023-10-28,Slipping Away
+CUST-1254,Amanda Douglas,lfox@example.net,Silver,Cebu,Online,2,1227.14,2024-09-21,527,2024-01-03,At Risk
+CUST-1047,James Richardson,curtishuynh@example.net,Bronze,NCR,Both,1,1204.29,2023-10-26,858,2023-10-26,Slipping Away
+CUST-1220,Mrs. Briana Martin DDS,nancybates@example.org,Gold,Laguna,Both,1,1195.16,2024-07-18,592,2024-07-18,Slipping Away
+CUST-1349,Anita Norton,dylanwalter@example.org,Gold,Cagayan de Oro,In-Store,1,1179.56,2023-10-06,878,2023-10-06,Slipping Away
+CUST-1161,Holly Chen,cmcbride@example.net,Bronze,NCR,In-Store,1,1166.23,2023-03-31,1067,2023-03-31,Slipping Away
+CUST-1168,Ronald Morris,ashley89@example.net,Platinum,Davao,Both,1,1153.8,2023-12-16,807,2023-12-16,Slipping Away
+CUST-1006,Mary Hernandez,smithtodd@example.com,Platinum,Cagayan de Oro,Online,1,1093.21,2024-06-22,618,2024-06-22,Slipping Away
+CUST-1255,James Franco,campbellaaron@example.org,Gold,Laguna,In-Store,1,1089.12,2023-09-20,894,2023-09-20,Slipping Away
+CUST-1204,Colin Heath,kathywebb@example.org,Silver,Laguna,Online,1,1088.16,2023-07-19,957,2023-07-19,Slipping Away
+CUST-1022,Brian Schultz,jameslittle@example.org,Platinum,NCR,Both,1,1058.47,2024-09-01,547,2024-09-01,Slipping Away
+CUST-1347,Jessica Hall,kristenlowery@example.com,Bronze,Cagayan de Oro,Both,1,1052.14,2023-10-08,876,2023-10-08,Slipping Away
+CUST-1341,Brian Cook,ebryan@example.com,Silver,Batangas,In-Store,1,1023.45,2024-03-07,725,2024-03-07,Slipping Away
+CUST-1208,Jamie Smith,zwest@example.org,Bronze,Cagayan de Oro,Both,2,1013.3,2024-05-14,657,2023-03-15,At Risk
+CUST-1152,Melanie Thompson,morriscarla@example.net,Silver,Pampanga,Both,2,961.96,2024-09-17,531,2023-12-02,At Risk
+CUST-1003,Curtis Castro,ilarson@example.org,Silver,Davao,Online,1,931.23,2023-12-05,818,2023-12-05,Slipping Away
+CUST-1301,Steven Davis,amberfields@example.org,Bronze,Laguna,In-Store,1,924.27,2023-05-26,1011,2023-05-26,Slipping Away
+CUST-1181,Robert Sullivan,toddcunningham@example.net,Gold,Batangas,Online,1,885.81,2023-05-15,1022,2023-05-15,Slipping Away
+CUST-1098,Brenda Harris,hbutler@example.net,Bronze,Cebu,In-Store,1,881.54,2023-05-23,1014,2023-05-23,Slipping Away
+CUST-1176,Daniel Anderson,goodwinkelly@example.com,Bronze,Pampanga,In-Store,1,824.08,2023-02-09,1117,2023-02-09,Slipping Away
+CUST-1017,Maria Schneider,matthew63@example.net,Bronze,Cebu,In-Store,1,785.21,2023-06-15,991,2023-06-15,Slipping Away
+CUST-1094,Belinda Young,ncarr@example.org,Platinum,Davao,In-Store,1,779.38,2024-02-10,751,2024-02-10,Slipping Away
+CUST-1109,Tanya Washington,richardcampbell@example.com,Gold,Batangas,Both,1,744.04,2023-07-27,949,2023-07-27,Slipping Away
+CUST-1390,Olivia Bowers,johnalvarez@example.org,Silver,Batangas,Online,1,696.08,2024-05-04,667,2024-05-04,Slipping Away
+CUST-1345,Jason Hurley,jason46@example.net,Silver,Cagayan de Oro,Online,1,587.03,2023-06-26,980,2023-06-26,Slipping Away
+CUST-1062,Thomas Wong,gibbssteven@example.net,Platinum,Batangas,Both,1,584.64,2024-07-01,609,2024-07-01,Slipping Away
+CUST-1270,Kristopher Thomas,amanda52@example.net,Bronze,NCR,Both,1,579.81,2023-06-27,979,2023-06-27,Slipping Away
+CUST-1095,Stephanie Landry,kelly46@example.net,Silver,Cagayan de Oro,Both,1,578.69,2023-02-24,1102,2023-02-24,Slipping Away
+CUST-1156,Benjamin Lucas,velezjohn@example.org,Bronze,Davao,Both,1,551.05,2024-03-21,711,2024-03-21,Slipping Away
+CUST-1138,Luis Robinson,nicole19@example.org,Bronze,Cebu,In-Store,1,510.37,2024-01-08,784,2024-01-08,Slipping Away
+CUST-1076,Amanda Collins,sarah72@example.org,Gold,Batangas,Online,1,465.92,2023-09-01,913,2023-09-01,Slipping Away
+CUST-1376,Audrey Rodriguez,nolandoris@example.com,Bronze,Iloilo,Online,1,463.32,2023-11-25,828,2023-11-25,Slipping Away
+CUST-1322,Mark Rodriguez,johndavis@example.org,Bronze,Laguna,Online,1,450.95,2024-05-29,642,2024-05-29,Slipping Away
+CUST-1316,Lawrence Santana,mwilkerson@example.org,Bronze,Cebu,Online,1,431.93,2024-07-14,596,2024-07-14,Slipping Away
+CUST-1014,Manuel Sweeney,colemegan@example.com,Gold,Iloilo,Both,1,410.98,2023-01-08,1149,2023-01-08,Slipping Away
+CUST-1377,Katherine Smith,eric67@example.org,Gold,Davao,In-Store,1,398.2,2024-05-30,641,2024-05-30,Slipping Away
+CUST-1063,Diamond Pena,gwilliams@example.org,Bronze,Cagayan de Oro,Both,1,349.36,2023-09-04,910,2023-09-04,Slipping Away
+CUST-1169,Marcus Jensen,robert78@example.net,Bronze,Laguna,Both,1,340.33,2023-07-13,963,2023-07-13,Slipping Away

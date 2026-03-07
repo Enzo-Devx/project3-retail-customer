@@ -1,0 +1,24 @@
+@"
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Sensitive config
+*.env
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Large output files
+outputs/charts/*.png
+"@ | Out-File -FilePath .gitignore -Encoding utf8

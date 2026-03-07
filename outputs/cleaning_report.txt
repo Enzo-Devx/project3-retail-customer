@@ -1,0 +1,34 @@
+============================================================
+  CLEANING REPORT — Retail ETL Pipeline
+  Run at: 2026-03-02 09:56:50
+============================================================
+
+[DB] Connected to PostgreSQL successfully.
+
+[Customers] Raw: 400 → Clean: 397
+            Removed: 3 rows
+
+[Products] 25 rows — clean reference table
+
+[Orders] Raw: 1200 → Clean: 1152
+         Sentinel prices: 59
+         Null quantities: 53
+         Dropped (no customer): 40
+
+[Load] customers: 397 rows → PostgreSQL ✅
+
+[Load] products: 25 rows → PostgreSQL ✅
+
+[Load] orders: 1152 rows → PostgreSQL ✅
+[Verify] customers: 397 rows in DB ✅
+[Verify] products: 25 rows in DB ✅
+[Verify] orders: 1152 rows in DB ✅
+
+============================================================
+
+ETL SUMMARY
+  customers : 397 rows loaded
+  products  : 25 rows loaded
+  orders    : 1152 rows loaded
+  Database  : retaildb (localhost:5432)
+  Status    : SUCCESS ✅

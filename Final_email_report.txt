@@ -1,0 +1,106 @@
+Subject: Customer Analysis — We Have a Retention Crisis (Full Findings Inside)
+
+Hi Jess,
+
+I've completed the full customer analysis. I'll be straight with you — the numbers confirm your instinct. We're not just losing customers. We have a structural retention problem that needs immediate attention.
+
+---
+
+THE BIG PICTURE
+
+  Total Revenue        : ₱3,804,511
+  Active Customers     : 329
+  Total Orders         : 1,050
+  Avg Order Value      : ₱3,623
+  Customers Gone Silent: 326 of 329 (99%)
+
+Virtually every customer we've ever acquired has stopped buying. This is not a slow quarter — this is a company-wide retention failure.
+
+---
+
+1. WHO ARE OUR BEST CUSTOMERS? (RFM Analysis)
+
+We segmented all customers into 7 groups based on Recency, Frequency, and Monetary value:
+
+  Needs Attention      74 customers   ₱1,239,262 revenue  ← carrying the company
+  Potential Loyalists  55 customers   ₱991,785
+  Lost                 26 customers   ₱921,912   ← spent ₱35K avg, now gone
+  Loyal Customers      62 customers   ₱314,409
+  At Risk              50 customers   ₱162,584
+  Champions            56 customers   ₱109,028
+  Cant Lose Them        3 customers   ₱52,539
+
+The most alarming segment is 'Lost' — 26 customers who averaged ₱35,458 each in historical spend and have completely disappeared. These were our best customers. Recovering even half of them is worth more than acquiring 50 new ones.
+
+---
+
+2. WHICH CATEGORIES DRIVE THE MOST VALUE?
+
+  Home & Living   ₱1,146,221   (highest revenue)
+  Fashion         ₱834,598
+  Electronics     ₱825,239
+  Beauty          ₱586,414
+  Sports          ₱412,039
+
+Home & Living leads despite not having the most orders — meaning higher average order values. This is our strongest category and should anchor any campaign.
+
+---
+
+3. COHORT RETENTION — THE CORE PROBLEM
+
+I ran a cohort analysis tracking every customer group by the month they first purchased and how many came back each subsequent month.
+
+The result: virtually zero retention across every cohort.
+
+Customers buy once and never return. This pattern is consistent across every month from January 2023 to September 2024. It is not seasonal. It is not a recent change. It has been happening since day one.
+
+This tells us the problem is not external — it's internal. We have no mechanism to bring customers back after their first purchase.
+
+---
+
+4. WHO IS AT RISK OF CHURNING?
+
+  High Value Churned : customers silent 365+ days, spent ₱10,000+
+  At Risk            : customers silent 180+ days
+  Slipping Away      : customers silent 90+ days
+
+Top priority targets for win-back are the High Value Churned group — they spent the most historically and have been completely silent the longest. Full list attached with emails and last order dates.
+
+---
+
+RECOMMENDATIONS
+
+  1. Immediate — Launch a win-back campaign targeting High Value
+     Churned customers specifically. Personalized offer based on
+     their last purchased category. These people already trust us
+     — they just need a reason to come back.
+
+  2. Short term — Build a post-purchase email sequence.
+     Follow up at 7, 14, and 30 days after every first order.
+     Right now we acquire a customer and then go completely silent.
+     That has to change.
+
+  3. Short term — Introduce a loyalty program.
+     Customers need a reason to choose us again over competitors.
+     Even a simple points system changes the retention equation.
+
+  4. Medium term — Investigate WHY customers aren't returning.
+     The data shows when they left. It doesn't show why.
+     A short customer survey or exit interview process would
+     give us the qualitative answer the numbers can't provide.
+
+  5. Medium term — Double down on Home & Living.
+     Highest revenue category, highest order value.
+     This is where our strongest customers live.
+     Campaign budget should reflect that.
+
+---
+
+I've attached the full interactive dashboard — filterable by segment and churn status. Recommend sharing it with the leadership team before the campaign planning meeting.
+
+Also attaching 6 charts as PNGs for the slide deck.
+
+Happy to walk through the findings on a call before you present.
+
+Best,
+[Your Name]

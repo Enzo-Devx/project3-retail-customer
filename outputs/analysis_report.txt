@@ -1,0 +1,55 @@
+============================================================
+  ANALYSIS REPORT — Retail Customer Analysis
+  Run at: 2026-03-02 15:48:09
+============================================================
+
+============================================================
+QUESTION 1 — RFM Segment Summary
+============================================================
+
+  Needs Attention        Customers:  74  Avg Spend: ₱    16,747  Total Rev: ₱   1,239,262
+  Potential Loyalists    Customers:  55  Avg Spend: ₱    18,032  Total Rev: ₱     991,785
+  Lost                   Customers:  26  Avg Spend: ₱    35,458  Total Rev: ₱     921,912
+  Loyal Customers        Customers:  62  Avg Spend: ₱     5,071  Total Rev: ₱     314,409
+  At Risk                Customers:  50  Avg Spend: ₱     3,252  Total Rev: ₱     162,584
+  Champions              Customers:  56  Avg Spend: ₱     1,947  Total Rev: ₱     109,028
+  Cant Lose Them         Customers:   3  Avg Spend: ₱    17,513  Total Rev: ₱      52,539
+
+============================================================
+QUESTION 2 — Category Revenue
+============================================================
+
+  Home & Living   Revenue: ₱   1,146,221  Orders:  213  Avg Order: ₱   5,381
+  Fashion         Revenue: ₱     834,598  Orders:  220  Avg Order: ₱   3,794
+  Electronics     Revenue: ₱     825,239  Orders:  200  Avg Order: ₱   4,126
+  Beauty          Revenue: ₱     586,414  Orders:  215  Avg Order: ₱   2,728
+  Sports          Revenue: ₱     412,039  Orders:  202  Avg Order: ₱   2,040
+
+============================================================
+QUESTION 3 — Cohort Retention (Month 0 vs Month 3)
+============================================================
+
+  Cohort 2023-01  Month 0: 100.0%  →  Month 3:  24.0%
+  Cohort 2023-02  Month 0: 100.0%  →  Month 3:  26.8%
+  Cohort 2023-03  Month 0: 100.0%  →  Month 3:  15.4%
+  Cohort 2023-04  Month 0: 100.0%  →  Month 3:  18.2%
+  Cohort 2023-05  Month 0: 100.0%  →  Month 3:   9.5%
+  Cohort 2023-06  Month 0: 100.0%  →  Month 3:   5.6%
+
+============================================================
+QUESTION 4 — Churn Risk Summary
+============================================================
+
+  High Value Churned     Customers:  97  Avg Spent: ₱    26,517  Avg Silent: 674 days
+  At Risk                Customers: 119  Avg Spent: ₱     6,836  Avg Silent: 726 days
+  Slipping Away          Customers: 110  Avg Spent: ₱     3,690  Avg Silent: 864 days
+
+============================================================
+
+OVERALL SUMMARY
+  Total Revenue     : ₱   3,804,511
+  Active Customers  :    329
+  Total Orders      :   1050
+  Avg Order Value   : ₱     3,623
+  RFM Segments      : 7
+  Churn Risk        : 326 customers > 90 days silent
